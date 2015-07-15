@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recetas>
+
+    <receta>
+        <id>leon-come-gamba</id>
+        <nombre>León come gamba</nombre>
+        <informacion_general>
+            <foto>leon-come-gamba.jpg</foto>
+            <comensales>1</comensales>
+            <tiempo unidad="minutos">45</tiempo>
+            <dificultad>extrema</dificultad>
+            <descripcion>
+            Alberto y su León come gamba, la polémica receta de MasterChef 3.
+            </descripcion>
+        </informacion_general>
+        <ingredientes>
+            <ingrediente cantidad="1" unidad="lomo">
+                gamba roja
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                pimiento rojo
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                patata
+            </ingrediente>
+            <ingrediente cantidad="2" unidad="granos">
+                pimienta rosa
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                cayena
+            </ingrediente>
+            <ingrediente cantidad="6" unidad="hebras">
+                azafran
+            </ingrediente>
+            <ingrediente cantidad="500" unidad="gramos">
+                tomate
+            </ingrediente>
+            <ingrediente cantidad="350" unidad="gramos">
+                fresas
+            </ingrediente>
+            <ingrediente cantidad="80" unidad="mililitros">
+                aceite
+            </ingrediente>
+            <ingrediente cantidad="30" unidad="mililitros">
+                vinagre suave
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                sal
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                pimienta
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">Trituramos los tomates junto a las fresas, el aceite, el vinagre, la sal y la pimienta y ponemos el gazpacho en una jarrita.</paso>
+            <paso numero="2">Metemos el pimiento rojo en el horno cubierto con papel de plata durante unos 25 minutos.</paso>
+            <paso numero="3">Marcamos la gamba en la plancha y la pelamos.</paso>
+            <paso numero="4">Hervimos la patata y la dejamos enfriar. Intentamos tallarla dándole la forma de una cabeza de león y separamos 2 trocitos para hacer las orejas.</paso>
+            <paso numero="5">Ponemos la patata en el centro del plato y le colocamos los 2 granos de pimienta a modo de ojos, las hebras de azafrán como bigotes y la punta de la cayena como nariz.</paso>
+            <paso numero="6">La rodeamos de trozos de pimiento rojo imitando una melena y terminamos poniendo la gamba en el morrito del león, donde estaría la boca.</paso>
+            <paso numero="7">Para servir, echamos el gazpacho alrededor de la cabeza de león, procurando no mancharla.</paso>
+        </preparacion>
+    </receta>
+
+
+    <receta>
+        <id>huevos-entomatados</id>
+        <nombre>Huevos entomatados</nombre>
+        <informacion_general>
+            <foto>huevos-entomatados.jpg</foto>
+            <comensales>4</comensales>
+            <tiempo unidad="minutos">45</tiempo>
+            <dificultad>fácil</dificultad>
+            <descripcion>
+            Receta de Karlos Arguiñano de huevos entomatados, un plato sencillo y económico de huevos en salsa de tomate casera con fritada de cebolleta y pimientos y acompañados de pan para untar.
+            </descripcion>
+        </informacion_general>
+        <ingredientes personas="4">
+            <ingrediente cantidad="4" unidad="">
+                huevos
+            </ingrediente>
+            <ingrediente cantidad="1/2" unidad="barra">
+                pan
+            </ingrediente>
+            <ingrediente cantidad="800" unidad="gramos">
+                tomate en conserva
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                pimiento rojo
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                pimiento verde
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                cebolleta
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                cebolla
+            </ingrediente>
+            <ingrediente cantidad="5" unidad="dientes">
+                ajo
+            </ingrediente>
+            <ingrediente cantidad="1/2" unidad="cucharadita">
+                comino en polvo
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                aceite de oliva
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                sal
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                azucar
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                perejil
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">Lamina 4 dientes de ajo y dóralos en una cazuela con un chorrito de aceite. Pica la cebolla en dados y añádelos. Rehoga un poco y agrega los tomates. Adereza con sal y azúcar y cocina el conjunto durante unos 30 minutos.</paso>
+            <paso numero="2">Pela la cebolleta, córtala en dados. Lava los pimientos y pela el rojo. Pícalos y córtalos en dados. Pon todo a pochar en una tartera con un chorrito de aceite. Sazona y añade una pizca de azúcar. Cocina la fritada durante 15 minutos. Agrega el tomate.</paso>
+            <paso numero="3">Maja el otro diente de ajo con una pizca de sal. Agrega el comino en polvo y mezcla bien. Añádelo a la tartera y mezcla bien.</paso>
+            <paso numero="4">Casca los huevos sobre el tomate y sálalos. Tapa la tartera y cocina los huevos hasta que se cuajen un poco. Sirve los huevos entomatados, espolvorea con perejil picado y acompáñalos con el pan.</paso>
+        </preparacion>
+    </receta>
+    
+    
+    <receta>
+        <id>alubias-blancas-patatas-coles</id>
+        <nombre>Alubias blancas con patatas y coles de Bruselas</nombre>
+        <informacion_general>
+            <foto>alubias-blancas-patatas-coles.jpg</foto>
+            <comensales>4</comensales>
+            <tiempo unidad="minutos">30</tiempo>
+            <dificultad>media</dificultad>
+            <descripcion>
+            Receta de Karlos Arguiñano de guiso de alubias blancas, patatas, zanahorias y coles de Bruselas cubiertas con provenzal gratinada, un plato muy nutritivo apto para vegetarianos y veganos.
+            </descripcion>
+        </informacion_general>
+        <ingredientes>
+            <ingrediente cantidad="250" unidad="gramos">
+                alubias blancas
+            </ingrediente>
+            <ingrediente cantidad="2" unidad="">
+                patatas
+            </ingrediente>
+            <ingrediente cantidad="12" unidad="">
+                coles de bruselas
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                cebolla
+            </ingrediente>
+            <ingrediente cantidad="2" unidad="">
+                zanahorias
+            </ingrediente>
+            <ingrediente cantidad="3" unidad="dientes">
+                ajo
+            </ingrediente>
+            <ingrediente cantidad="4" unidad="cucharadas">
+                pan rallado
+            </ingrediente>
+            <ingrediente cantidad="1/2" unidad="cucharada">
+                pimentón
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                aceite de oliva
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                sal
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                perejil
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">Pela la cebolla y pícala finamente. Ponla a pochar en la olla rápida.</paso>
+            <paso numero="2">Añade las alubias (previamente remojadas de víspera) y el pimentón. Mezcla bien y cubre con agua. Pon a punto de sal y tápalas. Cuécelas durante 10-12 minutos. Abre la olla.</paso>
+            <paso numero="3">Pela las zanahorias y córtalas en 4 trozos. Tornea y añádelas a la olla. Retira la primera capa de las coles de Bruselas e incorpóralas. Pela las patatas, tornea y agrégalas. Tápala de nuevo y cuece el conjunto durante 5 minutos.</paso>
+            <paso numero="4">Reparte el guiso en 4 recipientes aptos para el horno. Pica los dientes de ajo finamente y mézclalo con el pan rallado, un poco de perejil picado y 1 cucharada de aceite. Espolvorea los recipientes con la provenzal y gratínalos hasta que se forme una costra dorada. Sirve las alubias blancas con patatas y coles de Bruselas.</paso>
+        </preparacion>
+    </receta>
+    
+    <receta>
+        <id>macarrones-tomates-secos</id>
+        <nombre>Macarrones con salsa de tomates secos</nombre>
+        <informacion_general>
+            <foto>macarrones-tomates-secos.jpg</foto>
+            <comensales>4</comensales>
+            <tiempo unidad="minutos">30</tiempo>
+            <dificultad>fácil</dificultad>
+            <descripcion>
+            Karlos Arguiñano prepara unos macarrones con salsa de tomates secos y piñones y acompañados de tejas de queso y alcaparras, un plato tradicional con una presentación diferente.
+            </descripcion>
+        </informacion_general>
+        <ingredientes>
+            <ingrediente cantidad="400" unidad="gramos">
+                macarrones
+            </ingrediente>
+            <ingrediente cantidad="4" unidad="">
+                tomates maduros
+            </ingrediente>
+            <ingrediente cantidad="100" unidad="gramos">
+                tomates secos
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="diente">
+                ajo
+            </ingrediente>
+            <ingrediente cantidad="2" unidad="cucharada">
+                alcaparras
+            </ingrediente>
+            <ingrediente cantidad="4" unidad="lonchas">
+                queso
+            </ingrediente>
+            <ingrediente cantidad="40" unidad="gramos">
+                piñones
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                aceite de oliva
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                vinagre de módena
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                sal
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                orégano
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                perejil
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">Corta 8 trozos de papel de horno y coloca 4 sobre una placa de horno. Pon encima de cada trozo de papel, una loncha de queso y unas alcaparras. Tapa cada loncha de queso con otro trocito de papel y hornéalas a 180ºC durante 15-20 minutos. Retira y colócalas sobre un rodillo para que cojan forma curva (como tejas). Deja que se enfríen.</paso>
+            <paso numero="2">Cuece los tomates secos durante 10 minutos en una cazuela con agua y un par de cucharadas de vinagre de Módena. Escurre y colócalos en el vaso batidor. Agrega los piñones y 1 diente de ajo. Vierte una buena cantidad de aceite y tritura. Reserva.</paso>
+            <paso numero="3">Pela los tomates, córtalos en dados y rehógalos en una tartera con un chorro de aceite. Sazónalos. Agrega la salsa de tomates secos y el orégano. Mezcla bien y deja cocinar a fuego suave unos minutos. Reserva.</paso>
+            <paso numero="4">Pon a calentar abundante agua en una cazuela grande. Cuando empiece a hervir, agrega la pasta. Sazona y cuécela durante 12 minutos. Escurre y pásalos directamente a la salsa de tomate. Rocía con un chorrito de aceite. Sirve y adorna con unas las tejas de queso y unas hojas de perejil.</paso>
+        </preparacion>
+    </receta>
+    
+    
+    <receta>
+        <id>chipirones-rellenos</id>
+        <nombre>Chipirones rellenos</nombre>
+        <informacion_general>
+            <foto>chipirones-rellenos.jpg</foto>
+            <comensales>4</comensales>
+            <tiempo unidad="minutos">25</tiempo>
+            <dificultad>fácil</dificultad>
+            <descripcion>
+            Receta de Bruno Oteiza de chipirones salteados rellenos de sus propios tentáculos y jamón y acompañados de maíz crujiente y salsa de cebolla.
+            </descripcion>
+        </informacion_general>
+        <ingredientes>
+            <ingrediente cantidad="8" unidad="">
+                chipirones
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="mazorca">
+                maíz dulce
+            </ingrediente>
+            <ingrediente cantidad="2" unidad="lonchas">
+                jamón
+            </ingrediente>
+            <ingrediente cantidad="2" unidad="">
+                cebollas
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="diente">
+                ajo
+            </ingrediente>
+            <ingrediente cantidad="50" unidad="gramos">
+                mantequilla
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="vasito">
+                vino blanco dulce
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                agua
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                aceite de oliva
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                sal
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                pimienta
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                perejil picado
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                vinagreta 
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                romero y tomillo
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">Limpia los chipirones y retírales la piel. Pica los tentáculos, las aletas y la corbata y resérvalos para el relleno.</paso>
+            <paso numero="2">Pica finamente el jamón y el ajo y saltea todo en una sartén con aceite de oliva y un trocito de mantequilla. Agrega los recortes de los chipirones y saltea el conjunto. Espolvorea con perejil picado. Rellena los cuerpos y ciérralos con un palillo.</paso>
+            <paso numero="3">Para la salsa, pon un poco de mantequilla y aceite en un cazo. Incorpora las cebollas cortadas en juliana y deja que se pochen. Vierte el vino, salpimienta y deja que reduzca casi completamente. Añade un poco de agua, dale un hervor y tritura. Ponla al fuego para que se caliente.</paso>
+            <paso numero="4">Corta la mazorca de maíz en trozos y saltéalos en una sartén con la mantequilla, sal y pimienta. Espolvorea con perejil picado.</paso>
+            <paso numero="5">Saltea los chipirones en una sartén con aceite bien caliente y un chorro de vinagreta.</paso>
+            <paso numero="6">Pon la salsa de cebolla en el fondo del plato. Coloca encima los chipirones. Acompaña con el maíz crujiente. Moja con vinagreta y decora con unas hojas de perejil, romero y tomillo.</paso>
+        </preparacion>
+    </receta>
+    
+    
+    <receta>
+        <id>congrio-azafran</id>
+        <imagen></imagen>
+        <nombre>Congrio en salsa de azafrán</nombre>
+        <informacion_general>
+            <foto>congrio-azafran.jpg</foto>
+            <comensales>4</comensales>
+            <tiempo unidad="minutos">60</tiempo>
+            <dificultad>media</dificultad>
+            <descripcion>
+            Receta de Bruno Oteiza de congrio en salsa de azafrán con pan, huevo cocido, patatas, cebolla y pimiento. Un plato muy saludable y sencillo de preparar.
+            </descripcion>
+        </informacion_general>
+        <ingredientes>
+            <ingrediente cantidad="1" unidad="lomo">
+                congrio
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                cebolla
+            </ingrediente>
+            <ingrediente cantidad="2" unidad="rebanadas">
+                pan
+            </ingrediente>
+            <ingrediente cantidad="2" unidad="dientes">
+                ajo
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                pimiento verde
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                patata
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="">
+                huevo
+            </ingrediente>
+            <ingrediente cantidad="2" unidad="cucharadas">
+                harina
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="cucharadita">
+                miel de azahar
+            </ingrediente>
+            <ingrediente cantidad="1" unidad="copita    ">
+                vino de jerez
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                agua
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                vinagre de jerez
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                aceite de oliva
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                sal
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                pimienta
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                azafrán
+            </ingrediente>
+            <ingrediente cantidad="" unidad="">
+                perejil
+            </ingrediente>
+        </ingredientes>
+        <preparacion>
+            <paso numero="1">Pon a cocer el huevo en un cazo con agua y sal durante 13 minutos aproximadamente. Escurre, refréscalo y pélalo.</paso>
+            <paso numero="2">Pela la patata, cáscala y cuécela en una cazuela con agua, sal, unas ramitas de perejil y un pimiento troceado.</paso>
+            <paso numero="3">Pon el pan en una tartera con un chorro de aceite de oliva. Incorpora la cebolla troceada y un par de dientes de ajo. Sofríe bien.</paso>
+            <paso numero="4">Pasa todo a un mortero y riega con un chorrito de vinagre de Jerez. Añade unas hebras de azafrán, sal y pimienta. Maja bien. Al final, vierte un poco del caldo de cocción de la patata.</paso>
+            <paso numero="5">Trocea el congrio, sazona, pásalo por harina y sofríelo en la misma tartera del pan y la cebolla. Vierte el vino fino y deja que reduzca. Introduce el majado. Incorpora las patatas y el pimiento con el caldo de cocción. Condimenta con perejil y deja que se cocine durante 10 minutos. Incorpora el huevo cocido troceado.</paso>
+            <paso numero="6">Al final, añade un chorrito de miel. Espolvorea con perejil picado y sirve el congrio en salsa de azafrán.</paso>
+        </preparacion>
+    </receta>
+
+</recetas>
