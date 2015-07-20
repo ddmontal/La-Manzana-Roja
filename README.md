@@ -7,4 +7,4 @@ Se ha adaptado una plantilla gratuita "Elements" que esta disponible en la web h
 
 Los datos se encuentran en un archivo XML "/xml/recetas.xml".
 
-Ejemplo: http://demos.ddmontal.com
+Ejemplo: http://demos.ddmontal.com/lmr
