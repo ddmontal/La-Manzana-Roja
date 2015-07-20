@@ -6,3 +6,5 @@ mediante funciones PHP.
 Se ha adaptado una plantilla gratuita "Elements" que esta disponible en la web http://www.html5webtemplates.co.uk/templates.html .
 
 Los datos se encuentran en un archivo XML "/xml/recetas.xml".
+
+Ejemplo: http://demos.ddmontal.com
